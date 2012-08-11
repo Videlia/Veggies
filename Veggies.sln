@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableViewTest", "..\GenericGame2\TableViewTest\TableViewTest.csproj", "{49404DA5-1792-4609-ACEF-6E2106AA297E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableViewTest", "TableViewTest\TableViewTest.csproj", "{49404DA5-1792-4609-ACEF-6E2106AA297E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +27,6 @@ Global
 		{49404DA5-1792-4609-ACEF-6E2106AA297E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = ..\GenericGame2\TableViewTest\TableViewTest.csproj
+		StartupItem = TableViewTest\TableViewTest.csproj
 	EndGlobalSection
 EndGlobal
